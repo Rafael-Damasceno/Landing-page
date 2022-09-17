@@ -1,6 +1,6 @@
 # Landing Page
 
-Projeto desenvolvido para a aprimoração das habilidades em desevolvimento web 
+Projeto desenvolvido para a aprimoração das habilidades em desenvolvimento web 
 
 ![Preview](./.github/Preview.jpeg)
 
